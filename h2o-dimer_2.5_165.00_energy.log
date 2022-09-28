@@ -1,0 +1,84 @@
+2022-09-27:21:44:13,482 INFO     [psi4.driver.task_planner:218] PLANNING MB:  mc_level_idx=0 packet={'driver': 'energy', 'method': 'scf', 'basis': 'aug-cc-pvdz', 'keywords': {'function_kwargs': {}}}
+2022-09-27:21:44:13,487 INFO     [psi4.driver.driver_nbody:940] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  // ManyBody Setup: N-Body Levels [1, 2]//
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:13,492 INFO     [psi4.driver.driver_nbody:506]         Number of 1-body computations:     2
+        Number of 2-body computations:     1
+2022-09-27:21:44:13,499 INFO     [psi4.driver.driver_nbody:1002] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  //       ManyBody Computations       //
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:13,526 INFO     [psi4.driver.task_base:154] <<< JSON launch ... c1 8.77235597574934
+2022-09-27:21:44:13,565 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:13,574 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=8.77235597574934
+2022-09-27:21:44:14,268 INFO     [psi4.driver.driver:502] Return energy(): -76.02982563505161
+2022-09-27:21:44:14,287 INFO     [psi4.driver.task_base:154] <<< JSON launch ... c1 8.801420354575152
+2022-09-27:21:44:14,324 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:14,333 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=8.801420354575152
+2022-09-27:21:44:15,21 INFO     [psi4.driver.driver:502] Return energy(): -76.03571398086225
+2022-09-27:21:44:15,40 INFO     [psi4.driver.task_base:154] <<< JSON launch ... c1 32.68284600765955
+2022-09-27:21:44:15,134 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:15,144 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=32.68284600765955
+2022-09-27:21:44:15,869 INFO     [psi4.driver.driver:502] Return energy(): -152.07038525628474
+2022-09-27:21:44:15,890 INFO     [psi4.driver.driver_nbody:1352] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  //          ManyBody Results         //
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:15,896 INFO     [psi4.driver.driver_nbody:387] 
+   ==> N-Body: Counterpoise Corrected (CP) energies <==
+
+        n-Body     Total Energy            Interaction Energy                          N-body Contribution to Interaction Energy
+                   [Eh]                    [Eh]                  [kcal/mol]            [Eh]                  [kcal/mol]
+             1  N/A                         0.000000000000        0.000000000000        0.000000000000        0.000000000000
+  FULL/RTN   2  N/A                        -0.004845640371       -3.040685239251       -0.004845640371       -3.040685239251
+
+
+2022-09-27:21:44:16,28 INFO     [psi4.driver.task_planner:218] PLANNING MB:  mc_level_idx=0 packet={'driver': 'energy', 'method': 'scf', 'basis': 'aug-cc-pvdz', 'keywords': {'function_kwargs': {}}}
+2022-09-27:21:44:16,33 INFO     [psi4.driver.driver_nbody:940] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  // ManyBody Setup: N-Body Levels [1, 2]//
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:16,38 INFO     [psi4.driver.driver_nbody:506]         Number of 1-body computations:     2
+        Number of 2-body computations:     1
+2022-09-27:21:44:16,44 INFO     [psi4.driver.driver_nbody:1002] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  //       ManyBody Computations       //
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:16,72 INFO     [psi4.driver.task_base:154] <<< JSON launch ... cs 8.772355975749342
+2022-09-27:21:44:16,111 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:16,121 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=8.772355975749342
+2022-09-27:21:44:16,814 INFO     [psi4.driver.driver:502] Return energy(): -76.02982585805461
+2022-09-27:21:44:16,833 INFO     [psi4.driver.task_base:154] <<< JSON launch ... cs 8.801420354575152
+2022-09-27:21:44:16,871 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:16,880 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=8.801420354575152
+2022-09-27:21:44:17,562 INFO     [psi4.driver.driver:502] Return energy(): -76.03571397487073
+2022-09-27:21:44:17,580 INFO     [psi4.driver.task_base:154] <<< JSON launch ... cs 32.68288953604219
+2022-09-27:21:44:17,618 INFO     [psi4.driver.task_planner:266] PLANNING Atomic:  keywords={'function_kwargs': {}}
+2022-09-27:21:44:17,627 INFO     [psi4.driver.driver:499] Compute energy(): method=scf, basis=aug-cc-pvdz, molecule=H4O2, nre=32.68288953604219
+2022-09-27:21:44:18,336 INFO     [psi4.driver.driver:502] Return energy(): -152.07036554546477
+2022-09-27:21:44:18,358 INFO     [psi4.driver.driver_nbody:1352] 
+  //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+  //          ManyBody Results         //
+  //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//
+
+
+2022-09-27:21:44:18,364 INFO     [psi4.driver.driver_nbody:387] 
+   ==> N-Body: Counterpoise Corrected (CP) energies <==
+
+        n-Body     Total Energy            Interaction Energy                          N-body Contribution to Interaction Energy
+                   [Eh]                    [Eh]                  [kcal/mol]            [Eh]                  [kcal/mol]
+             1  N/A                         0.000000000000        0.000000000000        0.000000000000        0.000000000000
+  FULL/RTN   2  N/A                        -0.004825712539       -3.028180336219       -0.004825712539       -3.028180336219
+
+

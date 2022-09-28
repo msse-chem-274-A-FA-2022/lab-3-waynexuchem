@@ -1,0 +1,90 @@
+    Molecular point group: c1
+    Full point group: C1
+
+    Geometry (in Angstrom), charge = 0, multiplicity = 1:
+
+       Center              X                  Y                   Z       
+    ------------   -----------------  -----------------  -----------------
+         C           -0.726921443007     1.096040622734     0.445560355823
+         C            0.655072026356     1.079856570953     0.577226974414
+         C            1.382288884704    -0.016528641196     0.131528835769
+         C            0.727124207029    -1.095922022450    -0.445490224183
+         C           -0.655378039207    -1.079559544267    -0.577115599486
+         C           -1.382176455934     0.016118030663    -0.131707558698
+         H           -1.293691138827     1.950093055681     0.792716018603
+         H            1.165876140914     1.921220047131     1.027011743570
+         H            2.459533235936    -0.029081260771     0.234187960391
+         H            1.293552690166    -1.950145945336    -0.792761957547
+         H           -1.165954396300    -1.921062801644    -1.026940067529
+         H           -2.459425835872     0.028917175076    -0.234246841788
+
+        Interatomic Distances (Angstroms)
+
+        Distance 1 to 2 1.388   
+        Distance 1 to 3 2.405   
+        Distance 1 to 4 2.777   
+        Distance 1 to 5 2.405   
+        Distance 1 to 6 1.389   
+        Distance 1 to 7 1.082   
+        Distance 1 to 8 2.145   
+        Distance 1 to 9 3.386   
+        Distance 1 to 10 3.859   
+        Distance 1 to 11 3.386   
+        Distance 1 to 12 2.145   
+        Distance 2 to 3 1.389   
+        Distance 2 to 4 2.405   
+        Distance 2 to 5 2.777   
+        Distance 2 to 6 2.405   
+        Distance 2 to 7 2.145   
+        Distance 2 to 8 1.082   
+        Distance 2 to 9 2.146   
+        Distance 2 to 10 3.386   
+        Distance 2 to 11 3.859   
+        Distance 2 to 12 3.386   
+        Distance 3 to 4 1.388   
+        Distance 3 to 5 2.405   
+        Distance 3 to 6 2.777   
+        Distance 3 to 7 3.386   
+        Distance 3 to 8 2.146   
+        Distance 3 to 9 1.082   
+        Distance 3 to 10 2.145   
+        Distance 3 to 11 3.386   
+        Distance 3 to 12 3.859   
+        Distance 4 to 5 1.389   
+        Distance 4 to 6 2.405   
+        Distance 4 to 7 3.859   
+        Distance 4 to 8 3.386   
+        Distance 4 to 9 2.145   
+        Distance 4 to 10 1.082   
+        Distance 4 to 11 2.145   
+        Distance 4 to 12 3.386   
+        Distance 5 to 6 1.388   
+        Distance 5 to 7 3.386   
+        Distance 5 to 8 3.859   
+        Distance 5 to 9 3.386   
+        Distance 5 to 10 2.145   
+        Distance 5 to 11 1.082   
+        Distance 5 to 12 2.145   
+        Distance 6 to 7 2.145   
+        Distance 6 to 8 3.386   
+        Distance 6 to 9 3.859   
+        Distance 6 to 10 3.386   
+        Distance 6 to 11 2.145   
+        Distance 6 to 12 1.082   
+        Distance 7 to 8 2.471   
+        Distance 7 to 9 4.280   
+        Distance 7 to 10 4.942   
+        Distance 7 to 11 4.279   
+        Distance 7 to 12 2.471   
+        Distance 8 to 9 2.471   
+        Distance 8 to 10 4.280   
+        Distance 8 to 11 4.942   
+        Distance 8 to 12 4.280   
+        Distance 9 to 10 2.471   
+        Distance 9 to 11 4.280   
+        Distance 9 to 12 4.942   
+        Distance 10 to 11 2.471   
+        Distance 10 to 12 4.279   
+        Distance 11 to 12 2.471   
+
+
